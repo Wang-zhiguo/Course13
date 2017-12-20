@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Course13.iml" filepath="$PROJECT_DIR$/Course13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawBitmap/DrawBitmap.iml" filepath="$PROJECT_DIR$/DrawBitmap/DrawBitmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawableAnimDemo/DrawableAnimDemo.iml" filepath="$PROJECT_DIR$/DrawableAnimDemo/DrawableAnimDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PropertyAnimDemo/PropertyAnimDemo.iml" filepath="$PROJECT_DIR$/PropertyAnimDemo/PropertyAnimDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewAnimDemo/ViewAnimDemo.iml" filepath="$PROJECT_DIR$/ViewAnimDemo/ViewAnimDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

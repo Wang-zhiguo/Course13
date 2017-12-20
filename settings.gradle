@@ -1,0 +1,1 @@
+include ':app', ':DrawBitmap', ':DrawableAnimDemo', ':ViewAnimDemo', ':PropertyAnimDemo'
